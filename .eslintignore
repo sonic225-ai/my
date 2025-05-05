@@ -1,0 +1,9 @@
+
+node_modules/
+dist/
+build/
+
+
+*.css
+*.svg
+sample.js
